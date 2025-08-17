@@ -15,7 +15,7 @@ rango = range (0,10)
 
 # TIPOS DE DATOS DE MAPEO (MAPPING TYPE)
 
-# dict (diccionario) [Colección no ordenada de pares clave - valor]
+# - dict (diccionario) [Colección no ordenada de pares clave - valor]
 
 diccionario = {"nombre": "Sergie Code", "edad": 34,"tecnologías": ["Python", "JavaScript"]}
 
